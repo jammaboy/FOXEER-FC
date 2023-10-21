@@ -25,6 +25,6 @@ Telemetry:  No
 Current Sensor:  Supported
 Current Scale:  100
 Input Signal:  DShot300/600
-![Imgur](https://imgur.com/x3NedOQ)
-![Imgur](https://imgur.com/7N4XNqI)
+![Imgur](https://imgur.com/x3NedOQ.png)
+![Imgur](https://imgur.com/7N4XNqI.png)
 
